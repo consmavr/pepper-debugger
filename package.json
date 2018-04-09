@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/consmavr/pepper-debugger.git"
   },
+  "keywords": ["pepper", "pepper-debugger", "pepper debug"],
   "author": "Konstantinos Mavridis <consmavr@gmail.com>",
   "license": "MIT",
   "bugs": {
